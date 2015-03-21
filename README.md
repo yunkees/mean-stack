@@ -1,4 +1,4 @@
-# mean-livro-codigo
+# mean-livro-codigo https://travis-ci.org/yunkees/mean-stack.svg?branch=master
 Não esqueça de executar no console os comandos:
 
 npm install
