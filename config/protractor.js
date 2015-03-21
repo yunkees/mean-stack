@@ -4,9 +4,9 @@ exports.config = {
     browser.driver.get('http://localhost:3000');
     browser.driver.findElement(by.id('entrar')).click();
     browser.driver.findElement(by.id('login_field'))
-    	.sendKeys('usuarioDoGitHub');
+    	.sendKeys('yunkees@yahoo.com.br');
     browser.driver.findElement(by.id('password'))
-    	.sendKeys('senhaUsuarioGithub');
-    browser.driver.findElement(by.name('commit')).click();  
+    	.sendKeys('021091Ab');
+    browser.driver.findElement(by.name('commit')).click();
   }
 };
