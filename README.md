@@ -1,4 +1,4 @@
-# mean-livro-codigo https://travis-ci.org/yunkees/mean-stack.svg?branch=master
+# mean-livro-codigo [![Build Status](https://travis-ci.org/yunkees/mean-stack.svg?branch=master)](https://travis-ci.org/yunkees/mean-stack)
 Não esqueça de executar no console os comandos:
 
 npm install
